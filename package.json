@@ -1,0 +1,6 @@
+{
+  "name": "gfg-stats-card",
+  "version": "1.0.0",
+  "description": "Live GeeksForGeeks stats card API — deploy on Vercel",
+  "private": true
+}
