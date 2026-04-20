@@ -1,3 +1,4 @@
+[README (7).md](https://github.com/user-attachments/files/26908030/README.7.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jagannati%20Harsha%20Vardhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20in%20the%20Making%20%7C%20Data%20Science%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
@@ -157,7 +158,7 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
   4. Replace YOUR-VERCEL-APP below with your actual Vercel URL
 -->
 <a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api/card?username=jharshavardhan" alt="GFG Stats Card" />
+  <img src="https://type-gfg-stats-card-n6dcxcb21-j-harshavardhans-projects.vercel.app/api/card?username=jharshavardhan" alt="GFG Stats Card" />
 </a>
 
 <br/>
