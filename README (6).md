@@ -1,4 +1,3 @@
-[README (7).md](https://github.com/user-attachments/files/26908030/README.7.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jagannati%20Harsha%20Vardhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20in%20the%20Making%20%7C%20Data%20Science%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
