@@ -142,20 +142,13 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/jharshavardhan/)
 
 ### 🟡 LeetCode Stats
-<!-- ✅ Live — updates instantly on every solve -->
+<!-- ✅ LIVE — updates instantly on every solve -->
 <img src="https://leetcard.jacoblin.cool/JAGANNATI_HARSHAVARDHAN?theme=dracula&font=Baloo+2&ext=heatmap&hide_border=true&border_radius=10" />
 
 <br/>
 
 ### 🟢 GeeksForGeeks Stats
-<!--
-  ✅ LIVE card — hosted on YOUR own Vercel deployment
-  SETUP (one time, 2 minutes):
-  1. Create a new GitHub repo named "gfg-stats-card"
-  2. Upload the 3 files from the gfg-card-api/ folder
-  3. Go to vercel.com → Import that repo → Deploy
-  4. Replace YOUR-VERCEL-APP below with your actual Vercel URL
--->
+<!-- ✅ LIVE — fetches real GFG data via custom Vercel API, updates every 30 mins -->
 <a href="https://www.geeksforgeeks.org/profile/jharshavardhan/">
   <img src="https://type-gfg-stats-card-n6dcxcb21-j-harshavardhans-projects.vercel.app/api/card?username=jharshavardhan" alt="GFG Stats Card" />
 </a>
@@ -166,9 +159,9 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 | Platform | 💻 Solved | 📊 Breakdown | 🏆 Achievement |
 |:---:|:---:|:---:|:---:|
-| 🟡 **LeetCode** | **96** | Easy: 48 · Medium: 33 · Hard: 15 | Rank: **#1566047** |
-| 🟢 **GeeksforGeeks** | **96** | School: 0 · Basic: 17 · Easy: 22 · Medium: 39 · Hard: 8 | Score: **259** · Inst. Rank: **#5** |
-| 🔥 **Combined** | **192+** | Across both platforms | Streak: **13 Days** 🔥 · POTDs: **31** |
+| 🟡 **LeetCode** | **100** | Easy: 50 · Medium: 35 · Hard: 15 | Rank: **#1566047** |
+| 🟢 **GeeksforGeeks** | **100** | School: 0 · Basic: 17 · Easy: 33 · Medium: 42 · Hard: 8 | Score: **273** · Inst. Rank: **#5** |
+| 🔥 **Combined** | **200+** | Across both platforms | Streak: **13 Days** 🔥 |
 
 </div>
 
@@ -186,7 +179,6 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <div align="center">
 
-<!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub%20Contributions-158-bd93f9?style=for-the-badge&logo=github&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Current%20Streak-13%20Days-ff79c6?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -195,29 +187,26 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 
 <br/><br/>
 
-<!-- LeetCode -->
-<img src="https://img.shields.io/badge/LeetCode%20Solved-96%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode%20Solved-100%20Problems%20🎯-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/Easy-48-00b8a3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Easy-50-00b8a3?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Medium-33-FFB800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Medium-35-FFB800?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hard-15-FF375F?style=for-the-badge" />
 
 <br/><br/>
 
-<!-- GFG — updated from screenshot -->
-<img src="https://img.shields.io/badge/GFG%20Solved-96%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GFG%20Solved-100%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Coding%20Score-259-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Coding%20Score-273-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Institute%20Rank-%235-gold?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/POTDs%20Solved-31%20🔥-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/POTDs%20Solved-32%20🔥-FF6F00?style=for-the-badge" />
 
 <br/><br/>
 
-<!-- Program -->
 <img src="https://img.shields.io/badge/IIT%20Patna%20×%20Masai-AI%20%26%20ML%20Student-6C5CE7?style=for-the-badge&logo=academia&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenEnv%20Hackathon-Submitted%20✅-00CEC9?style=for-the-badge&logo=hackthebox&logoColor=white" />
@@ -255,3 +244,4 @@ Reddit API → Data Collection → Data Cleaning → Analysis → Visualization 
 **⭐ If you like what I'm building, consider starring my repos!**
 
 </div>
+[README (10).md](https://github.com/user-attachments/files/26920179/README.10.md)
